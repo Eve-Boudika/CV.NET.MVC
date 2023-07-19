@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\CV\\WebCv\\WebCv.csproj": {}
+    "C:\\Dev\\CV\\WebCV\\WebCv.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\CV\\WebCv\\WebCv.csproj": {
+    "C:\\Dev\\CV\\WebCV\\WebCv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\CV\\WebCv\\WebCv.csproj",
+        "projectUniqueName": "C:\\Dev\\CV\\WebCV\\WebCv.csproj",
         "projectName": "WebCv",
-        "projectPath": "C:\\Dev\\CV\\WebCv\\WebCv.csproj",
+        "projectPath": "C:\\Dev\\CV\\WebCV\\WebCv.csproj",
         "packagesPath": "C:\\Users\\evela\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\CV\\WebCv\\obj\\",
+        "outputPath": "C:\\Dev\\CV\\WebCV\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\evela\\AppData\\Roaming\\NuGet\\NuGet.Config",

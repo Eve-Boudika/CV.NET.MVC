@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XDLkTBNyPDaJOZwelXOeG5ppGd/92RajPVA/82kjN5AFGP8P/Xny0il/8Sdj7rtQehgVj5YQ5YrfXEoDDRdpGw==",
+  "dgSpecHash": "Z+wXzhPMEhkw+NDAFkDzSm8r/6RINX7TlObcx3KsvTYTDHSjJl07XiNvDIdmNIF/pFmogMx9qpz5zZbfmwtIjg==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\CV\\WebCv\\WebCv.csproj",
+  "projectFilePath": "C:\\Dev\\CV\\WebCV\\WebCv.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\evela\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\evela\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
