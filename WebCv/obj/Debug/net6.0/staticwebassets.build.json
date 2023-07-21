@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ydQTfC6LomFsLCnMGyWDJ+hZWDTXN0z7A7cXsSXPjCE=",
+  "Hash": "44ODixn0hpmbTQUmcOwxcMCmsWsrF7oJ9mGVmSOzPcQ=",
   "Source": "WebCv",
   "BasePath": "_content/WebCv",
   "Mode": "Default",
@@ -85,12 +85,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Dev\\CV\\WebCV\\wwwroot\\Imagenes\\CristianSguazzinCV.pdf",
+      "Identity": "C:\\Dev\\CV\\WebCV\\wwwroot\\Imagenes\\CVEGTest.pdf",
       "SourceId": "WebCv",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\CV\\WebCV\\wwwroot\\",
       "BasePath": "_content/WebCv",
-      "RelativePath": "Imagenes/CristianSguazzinCV.pdf",
+      "RelativePath": "Imagenes/CVEGTest.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,7 +99,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\CristianSguazzinCV.pdf"
+      "OriginalItemSpec": "wwwroot\\Imagenes\\CVEGTest.pdf"
     },
     {
       "Identity": "C:\\Dev\\CV\\WebCV\\wwwroot\\Imagenes\\foto.jpeg",
@@ -117,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Imagenes\\foto.jpeg"
+    },
+    {
+      "Identity": "C:\\Dev\\CV\\WebCV\\wwwroot\\Imagenes\\Githubprofile1.jpg",
+      "SourceId": "WebCv",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dev\\CV\\WebCV\\wwwroot\\",
+      "BasePath": "_content/WebCv",
+      "RelativePath": "Imagenes/Githubprofile1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Githubprofile1.jpg"
     },
     {
       "Identity": "C:\\Dev\\CV\\WebCV\\wwwroot\\js\\site.js",
@@ -1103,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Dev\\CV\\WebCV\\wwwroot\\style.css",
+      "SourceId": "WebCv",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dev\\CV\\WebCV\\wwwroot\\",
+      "BasePath": "_content/WebCv",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
     }
   ]
 }
