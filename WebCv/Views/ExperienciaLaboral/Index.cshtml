@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    <link rel="stylesheet" href="~/style.css" />
+}
+
+<h2> @ViewBag.Experiencia linea de tiempo laboral basada en el estilo de actividad de github</h2>
+
+@foreach (var item in ViewBag.ListadoExperiencias)
+{
+        <h1>@item</h1> <br />     
+}
+
+
+
+<p>So many years of laboral experience is useless now. lorem ipsum</p>
+
+   <!-- Linea de tiempo para experiencia laboral --> 
+
+            <div class="container" id="contenedorTimeLine">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-body">
+                    <h6 class="card-title">Timeline</h6>
+                    <div id="content">
+                        <ul class="timeline">
+                            <li class="event" data-date="2022 - Actualidad">
+                                <h3>Registration</h3>
+                                <p>Get here on time, it's first come first serve. Be late, get turned away.</p>
+                            </li>
+                            <li class="event" data-date="2020 - 2022">
+                                <h3>Opening Ceremony</h3>
+                                <p>Get ready for an exciting event, this will kick off in amazing fashion with MOP &amp; Busta Rhymes as an opening show.</p>
+                            </li>
+                            <li class="event" data-date="2017 - 2020">
+                                <h3>Main Event</h3>
+                                <p>This is where it all goes down. You will compete head to head with your friends and rivals. Get ready!</p>
+                            </li>
+                            <li class="event" data-date="2015 - 2017">
+
+                                <div class="contenedor">
+                                     <img id="educaboticon" src="~/Imagenes/educabot.jpeg" alt="Educabot" class="brandicon">
+                                     <h1>Educabot</h1>
+                                </div>
+
+                                <h2>• Ejecutiva Comercial</h2>
+                                <p>Ejecutiva con cartera activa zona AMBA y Patagonia, contacto y seguimiento de clientes del sector hotelero. Prospección, venta, fidelización, pots venta. Negociación y cotizaciones.  </p>
+                                <h2>• Asistente Comercial</h2>
+                                <p>Asistencia a ejecutivos en tareas administrativas, cobranza, prospección de base, armado de presupuestos y contacto con clientes.</p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+

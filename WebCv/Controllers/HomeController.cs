@@ -23,11 +23,6 @@ namespace WebCv.Controllers
             return View();
         }
 
-        public IActionResult ExperienciaLaboral()
-        {
-            return View();
-        }
-
         public IActionResult Educacion()
         {
             return View();

@@ -33,27 +33,7 @@
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* Estilos para linea de tiempo-Experiencia laboral */
 
 .timeline {
     border-left: 3px solid #727cf5;
@@ -87,13 +67,17 @@
 .timeline h3 {
     font-weight: 600;
     font-size: 1rem;
+    color: white;
     margin-bottom: 10px;
 }
+
+/* Este item modifica el color de texto de ambas columnas */
 
 .timeline .event {
     border-bottom: 1px dashed #e8ebf1;
     padding-bottom: 25px;
     margin-bottom: 25px;
+    color: white;
     position: relative;
 }
 
@@ -170,8 +154,29 @@
         right: -55.8px;
     }
 
+.brandicon {
+    width: 30px;
+    margin-bottom: 12px;
+}
+
+.contenedor {
+    white-space: nowrap; 
+}
+
+.brandicon, h1 {
+    display: inline-block; 
+    vertical-align: middle; 
+}
+
+
+
+h1 {
+    margin-left: 10px;
+}
+
 
  /*Pisamos la clase card de bootstrap usando important*/
+
 .card {
     background-color: #0d1117 !important;
 }

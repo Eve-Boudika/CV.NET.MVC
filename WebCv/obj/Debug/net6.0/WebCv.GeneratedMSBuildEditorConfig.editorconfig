@@ -15,12 +15,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Dev\CV\WebCV
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Dev/CV/WebCV/Views/Home/Educacion.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZHVjYWNpb24uY3NodG1s
+[C:/Dev/CV/WebCV/Views/ExperienciaLaboral/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jaWFMYWJvcmFsXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dev/CV/WebCV/Views/Home/ExperienciaLaboral.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFeHBlcmllbmNpYUxhYm9yYWwuY3NodG1s
+[C:/Dev/CV/WebCV/Views/Home/Educacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZHVjYWNpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Dev/CV/WebCV/Views/Home/Index.cshtml]
