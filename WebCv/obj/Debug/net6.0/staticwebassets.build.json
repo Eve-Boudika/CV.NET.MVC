@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TfDHVq1cfrdBX6gBJYw4ATMD5ZxjAuB8ABsfgjIqzII=",
+  "Hash": "P2gAOuYFm+AVK/1sVRdvZZD8nntndRu7x24x1FLkQbI=",
   "Source": "WebCv",
   "BasePath": "_content/WebCv",
   "Mode": "Default",
@@ -85,6 +85,40 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Dev\\CV\\WebCV\\wwwroot\\Imagenes\\compartir.jpg",
+      "SourceId": "WebCv",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dev\\CV\\WebCV\\wwwroot\\",
+      "BasePath": "_content/WebCv",
+      "RelativePath": "Imagenes/compartir.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\compartir.jpg"
+    },
+    {
+      "Identity": "C:\\Dev\\CV\\WebCV\\wwwroot\\Imagenes\\compartirlogo.jpg",
+      "SourceId": "WebCv",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dev\\CV\\WebCV\\wwwroot\\",
+      "BasePath": "_content/WebCv",
+      "RelativePath": "Imagenes/compartirlogo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\compartirlogo.jpg"
+    },
+    {
       "Identity": "C:\\Dev\\CV\\WebCV\\wwwroot\\Imagenes\\CVEGTest.pdf",
       "SourceId": "WebCv",
       "SourceType": "Discovered",
@@ -151,6 +185,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Imagenes\\Githubprofile1.jpg"
+    },
+    {
+      "Identity": "C:\\Dev\\CV\\WebCV\\wwwroot\\Imagenes\\levilogo.jpg",
+      "SourceId": "WebCv",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dev\\CV\\WebCV\\wwwroot\\",
+      "BasePath": "_content/WebCv",
+      "RelativePath": "Imagenes/levilogo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\levilogo.jpg"
     },
     {
       "Identity": "C:\\Dev\\CV\\WebCV\\wwwroot\\js\\site.js",

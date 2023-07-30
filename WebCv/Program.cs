@@ -1,7 +1,11 @@
+using WebCv.Repository;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped<IExperienciaLaboralRespository, experiencialaboralrepository>();
 
 var app = builder.Build();
 
