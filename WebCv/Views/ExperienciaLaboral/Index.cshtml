@@ -7,22 +7,24 @@
 
 @foreach (var item in ViewBag.ListadoExperiencias)
 {
-        <h1>@item</h1> <br />     
+    <h1>@item</h1>
+    <br />
 }
 
 
 @foreach (var item in ViewBag.ListaDeTrabajos)
 {
-        <h1>@item.Descripcion</h1> <br />     
+    <h1>@item.Descripcion</h1>
+    <br />
 }
 
 
 
 <p>So many years of laboral experience is useless now. lorem ipsum</p>
 
-   <!-- Linea de tiempo para experiencia laboral --> 
+<!-- Linea de tiempo para experiencia laboral -->
 
-            <div class="container" id="contenedorTimeLine">
+<div class="container" id="contenedorTimeLine">
     <div class="row">
         <div class="col-md-12">
             <div class="card">
@@ -30,14 +32,32 @@
                     <h6 class="card-title">Timeline</h6>
                     <div id="content">
                         <ul class="timeline">
+
+
+                            <!-- TODO: probando mudar el formato y armar la tabla base -->
+                            
+
+                            @foreach (var experiencia in ViewBag.ListaDeTrabajos)
+                            {
+                                <li class="event" data-date="">
+           
+                                    <p>@experiencia.Descripcion</p>
+                                </li>
+                            }
+
+
+
+
+
+
                             <li class="event" data-date="2022 - Actualidad">
                                 <h3>Registration</h3>
                                 <p>Get here on time, it's first come first serve. Be late, get turned away.</p>
                             </li>
                             <li class="event" data-date="2020 - 2022">
-                                 <div class="contenedor">
-                                 <img id="Educaboticon" src="~/Imagenes/educabot.jpeg" alt="Educabot" class="brandicon">
-                                     <h1>Educabot</h1>
+                                <div class="contenedor">
+                                    <img id="Educaboticon" src="~/Imagenes/educabot.jpeg" alt="Educabot" class="brandicon">
+                                    <h1>Educabot</h1>
                                 </div>
 
                                 <h2>• Ejecutiva Comercial</h2>
@@ -46,25 +66,27 @@
                                 <p>Asistencia a ejecutivos en tareas administrativas, cobranza, prospección de base, armado de presupuestos y contacto con clientes.</p>
                             </li>
                             <li class="event" data-date="2017 - 2020">
-                                  <div class="contenedor">
-                                  <img id="SCompartiricon" src="~/Imagenes/compartir.jpg" alt="Compartir" class="brandicon">
-                                     <h1>Santillana Compartir</h1>
+                                <div class="contenedor">
+                                    <img id="SCompartiricon" src="~/Imagenes/compartir.jpg" alt="Compartir" class="brandicon">
+                                    <h1>Santillana Compartir</h1>
                                 </div>
 
                                 <h2>• Ejecutiva de cuentas</h2>
-                                <p>Ejecutiva de cuentas a cargo de la cartera de colegios usuarios de la propuesta                                      digital "Santillana Compartir" y todos sus componentes. Zona Caba, Amba e interior del                                  pais.
-                                Realización de presentaciones comperciales y capacitaciones en el uso de la plataforma                                  en colegios. Relevamiento de necesidades de los clientes para implementación de nuevas                                  propuestas.Confección, seguimiento y cierre de presupuestos.</p>
+                                <p>
+                                    Ejecutiva de cuentas a cargo de la cartera de colegios usuarios de la propuesta                                      digital "Santillana Compartir" y todos sus componentes. Zona Caba, Amba e interior del                                  pais.
+                                    Realización de presentaciones comperciales y capacitaciones en el uso de la plataforma                                  en colegios. Relevamiento de necesidades de los clientes para implementación de nuevas                                  propuestas.Confección, seguimiento y cierre de presupuestos.
+                                </p>
 
                             </li>
                             <li class="event" data-date="2015 - 2017">
 
                                 <div class="contenedor">
-                                     <img id="Levitexicon" src="~/Imagenes/levilogo.jpg" alt="Levitex" class="brandicon">
-                                     <h1>Levitex</h1>
+                                    <img id="Levitexicon" src="~/Imagenes/levilogo.jpg" alt="Levitex" class="brandicon">
+                                    <h1>nombre de la empresa</h1>
                                 </div>
 
-                                <h2>• Ejecutiva Comercial</h2>
-                                <p>Ejecutiva con cartera activa zona AMBA y Patagonia, contacto y seguimiento de clientes del sector hotelero. Prospección, venta, fidelización, pots venta. Negociación y cotizaciones.  </p>
+                                <h2>• nombre</h2>
+                                <p> descripcion </p>
                                 <h2>• Asistente Comercial</h2>
                                 <p>Asistencia a ejecutivos en tareas administrativas, cobranza, prospección de base, armado de presupuestos y contacto con clientes.</p>
                             </li>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "P2gAOuYFm+AVK/1sVRdvZZD8nntndRu7x24x1FLkQbI=",
+  "Hash": "vsoVeIr+iUFV+2yLEiZVpT4u48BqOJ9tGKLJB5pPDN4=",
   "Source": "WebCv",
   "BasePath": "_content/WebCv",
   "Mode": "Default",
@@ -151,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Imagenes\\educabot.jpeg"
+    },
+    {
+      "Identity": "C:\\Dev\\CV\\WebCV\\wwwroot\\Imagenes\\EGCV.pdf",
+      "SourceId": "WebCv",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dev\\CV\\WebCV\\wwwroot\\",
+      "BasePath": "_content/WebCv",
+      "RelativePath": "Imagenes/EGCV.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\EGCV.pdf"
     },
     {
       "Identity": "C:\\Dev\\CV\\WebCV\\wwwroot\\Imagenes\\foto.jpeg",
